@@ -1,8 +1,1 @@
-#este es mi primera repo
-#hola
-#yupii
-#al fin
-#daniela
-#holaaaaa
-#comentario agregado por usuario6
-#cdoifhseiofh
+#ramita creado hoy 18/11
